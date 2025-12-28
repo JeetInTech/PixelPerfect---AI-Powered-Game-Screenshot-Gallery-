@@ -3,7 +3,7 @@
 A dynamic React-based gallery that automatically detects and displays **only video game screenshots** from your local folder using **OpenAI's CLIP model** for ML classification.
 
 It intelligently filters out:
-- ❌ Anime / Manga / Hentai images
+- ❌ Anime / Manga / 10+ images
 - ❌ Code / IDE screenshots
 - ❌ Browser / Desktop screenshots
 - ❌ Photos of real people
